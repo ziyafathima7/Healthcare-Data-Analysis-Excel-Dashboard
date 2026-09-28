@@ -7,7 +7,11 @@ This project focuses on analyzing healthcare data using Microsoft Excel to ident
 The project transforms a large healthcare dataset into structured analysis and an interactive dashboard that makes key findings easier to understand and explore.
 
 ---
+## 📊 Interactive Dashboard
 
+![Healthcare Excel Dashboard](dashboard.png)
+
+---
 ## 🎯 Project Objective
 
 The main objectives of this project are to:
@@ -111,12 +115,6 @@ Analysis of:
 - Length of stay by medical condition
 - Short-stay vs long-stay records
 - Average billing by stay category
-
-## 📊 Interactive Dashboard
-
-![Healthcare Excel Dashboard](dashboard.png)
-
----
 
 ## 💡 Key Insights
 
